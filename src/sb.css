@@ -1,0 +1,16 @@
+.SearchBox{
+    text-align: center;
+    text-transform: capitalize;
+}
+
+     .InfoBox {
+   
+    flex-direction: column;
+    align-items: center; /* horizontally center children */
+    justify-content: center; /* optional: vertically center children */
+    min-height: 100vh; /* optional: full height if you want vertical centering */
+    text-align: center; /* keeps text inside children centered */
+}
+
+
+    
